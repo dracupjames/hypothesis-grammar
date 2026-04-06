@@ -7,7 +7,7 @@ and what you would expect from the other approaches that we've covered.
 
 Answer: hypothesis compared to other testing cases will randomly 
 select from generated cases it produces that can include edge 
-cases, all of which can be further, or more complex than what 
+cases, all of which can be more complex than what 
 I or other people could think of for testing purposes.
 
 Compared to what other approaches that we've covered which are based on what I've
